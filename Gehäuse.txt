@@ -1,0 +1,50 @@
+﻿elpac.de
+
+Plastik: TPC118-220-BB  23,28
+
+Alu Eloxiert: EST1A 4095 70    27,50
+
+Alu Eloxiert: EST1A 4095 110   28,92
+
+Alu Eloxiert: EST1A 4095 140   30,83
+
+Alu Natur: EST1 4095 80    14,56
+
+Alu Natur: EST1 4095 120   16,21
+
+Alu Natur: EST1 4095 150   18,75
+
+Alu Natur, Deckplatten: EST2 40100-80-AN  12,67
+
+Alu Natur, Deckplatten: EST2 40100-130-AN 14,17
+
+Alu Natur, Deckplatten: EST2 40100-170-AN 15,76
+
+****Alu Natur, Halbschalen: F34-80-A  11,87*** F38 prüfen!
+
+Alu Natur, Halbschalen: F34-100-A  12,39
+
+Alu Natur, Halbschalen: F34-150-A  13,30
+
+Alu Natur, Halbschalen: F34-160-A  13,78
+
+Alu Schwarz, Geschlossen: F105-80-N 12,35
+
+Alu Schwarz, Geschlossen: F105-100-N 13,68
+
+Alu Schwarz, Geschlossen: F105-160-N 17,39
+
+
+reichelt.de
+
+Alu: FR 80 42 100 ME  16,55
+
+
+XLR 
+
+NC3FBH1    2,69 EUR
+NC3MBH     2,69 EUR
+NC4MBH     5,00 EUR
+
+
+
